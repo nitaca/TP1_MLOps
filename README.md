@@ -1,1 +1,1 @@
-# TP1_MLOps
+# TP1 Cours MLOps
